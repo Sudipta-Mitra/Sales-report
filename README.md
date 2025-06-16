@@ -1,11 +1,11 @@
 # Sales-report
 
-#Objective
+# Objective
 - To develop an interactive and insightful Power BI sales dashboard that helps stakeholders analyze sales performance across regions, products, and time.
 
 - To identify key revenue-generating areas, track discount impacts, and understand growth trends to support strategic business decisions.
 
-#Report Description
+# Report Description
 - Utilized historical sales data from 2013 and 2014 to build a comparative analysis.
 
 - Created dynamic charts and visualizations for:
@@ -22,7 +22,7 @@
 
 - Integrated slicers and filters for flexible drill-down analysis by time, geography, and product.
 
-#Key Outcomes
+# Key Outcomes
 - Identified High-Performing Regions: Enabled the company to recognize which regions are generating the most revenue and profit.
 
 - Product Performance Insights: Helped pinpoint which products are most popular and contribute significantly to sales growth.
